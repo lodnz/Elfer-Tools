@@ -8,7 +8,7 @@ Python Multi-tools.
   - 100% <strong>Free</strong>.<br>
 
 <h1 align="center">Showcase</h1>
-  <img align="center" src="Elfer-Tools/Img/ElferUI.png"
+  <img align="center" src="Elfer-Tools-main/Img/ElferUI.png"
 </p>
 
 <p>
