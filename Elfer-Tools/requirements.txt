@@ -1,0 +1,4 @@
+colorama
+whois
+requests
+speedtest-cli
