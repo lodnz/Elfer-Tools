@@ -1,0 +1,5 @@
+colorama
+whois
+requests
+speedtest-cli
+wcwidth
