@@ -35,6 +35,16 @@ Python Multi-tools.
   - Header Check
   - Breach Check
   - Speed Test
+  - Username Lookup
+  - Email Finder
+  - Social Media Check
+  - Google Dork Scanner
+  - Phone Number Info
+  - Public IP Info
+  - Leaked Paste Search
+  - File Metadata Viewer
+  - Image EXIF Reader
+  - Clear Cache & Temp
 
     More soon.
 
