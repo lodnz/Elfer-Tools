@@ -1,0 +1,11 @@
+colorama
+whois
+requests
+speedtest-cli
+wcwidth
+phonenumbers
+Pillow
+ipaddress
+git+https://github.com/sherlock-project/sherlock.git
+git+https://github.com/dibsy/pastehunter.git
+git+https://github.com/qeeqbox/social-analyzer.git
